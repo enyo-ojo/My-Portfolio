@@ -31,6 +31,8 @@
 | 🚵‍♂️🚴‍♀️ [London Bike Riders](https://github.com/enyo-ojo/London-Bike-Riders-Analysis-and-vISUALIZATION) | Cleansed and performed feature engineering on london bike rides dataset. Then, I visualized the data in Tableau to give insights into popular biking hours, seasons, weather, and more | [Dashboard](https://public.tableau.com/app/profile/enyo.alabi/viz/LondonBikeRiders_17378692957150/Dashboard1) |
 | 🎬🎭 [Netflix Movie Data](https://public.tableau.com/app/profile/enyo.alabi/viz/NetflixDashboard_17410372119330/Dashboard2) | I analysed an older Netflix Dataset to visualize the distribution of Netflix in its early days, exploring popular genres, ratings and movie types. | [Dashboard](https://public.tableau.com/app/profile/enyo.alabi/viz/NetflixDashboard_17410372119330/Dashboard2) |
 
+***
+
 # Power-BI
 
 | Project Link | Project Description | Dashboard Link |
