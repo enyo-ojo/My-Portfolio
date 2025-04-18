@@ -1,16 +1,16 @@
 # 🗺 Enyojo's Portfolio
 
 ## 📚 Table of Contents
-- [SQL](#sql)
-- [Python](#python)
-- [Tableau](#tableau)
-- [Power BI](#power-bi)
+- 🗃 [SQL](#sql)
+- 🐍 [Python](#python)
+- 📊 [Tableau](#tableau)
+- 📈 [Power BI](#power-bi)
 
-# SQL
+# 🗃 SQL Project
 
-| Project Link | 🧠 Area of Analysis | Project Description | 
+📌 Project | 🧠 Focus Area | 🛠️ Tools | 🔍 Project Story 
 |---|---|---|
-| 💡 [Exploratory Data Analysis and Cleaning for Housing Data](https://github.com/enyo-ojo/SQL-ETL-) | Exploratory Data analysis, data cleaning, data transformation | This repo showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing for exploring data and problem-solving skills. | 
+💡 [Housing Data Cleaning & EDA](https://github.com/enyo-ojo/SQL-ETL-) | Data Transformation · SQL Query Optimization | SQL (Joins, CTEs, Subqueries) | Problem: Messy housing data limited pricing insights.  Action: Cleaned and transformed raw housing data using SQL—applied CTEs, CASE statements, and aggregations.  Result: Created a clean dataset ready for analysis and visualization to drive real estate decisions.
 
 ***
 
@@ -25,17 +25,18 @@
 
 ***
 
-# Tableau
+# 📊 Tableau Projects
 
-| Project Link |  Project Description | Dashboard Link |
+📌 Project | 🧠 Focus Area | 🛠️ Tools | 🔍 Project Story
 |---|---|---|
-| 🚵‍♂️🚴‍♀️ [London Bike Riders](https://github.com/enyo-ojo/London-Bike-Riders-Analysis-and-vISUALIZATION) | Cleansed and performed feature engineering on london bike rides dataset. Then, I visualized the data in Tableau to give insights into popular biking hours, seasons, weather, and more | [Dashboard](https://public.tableau.com/app/profile/enyo.alabi/viz/LondonBikeRiders_17378692957150/Dashboard1) |
-| 🎬🎭 [Netflix Movie Data](https://public.tableau.com/app/profile/enyo.alabi/viz/NetflixDashboard_17410372119330/Dashboard2) | I analysed an older Netflix Dataset to visualize the distribution of Netflix in its early days, exploring popular genres, ratings and movie types. | [Dashboard](https://public.tableau.com/app/profile/enyo.alabi/viz/NetflixDashboard_17410372119330/Dashboard2) |
+🚴‍♂️ [London Bike Rider Analysis](https://github.com/enyo-ojo/London-Bike-Riders-Analysis-and-vISUALIZATION) | Transportation Analytics · Weather Impact | Tableau, Excel | Problem: Understanding peak biking usage in London.  Action: Cleaned and enriched the data with engineered weather and time features, then visualized usage trends.  Result: Revealed peak hours, seasonal changes, and insights for city planners.  🔗 [Dashboard](https://public.tableau.com/app/profile/enyo.alabi/viz/LondonBikeRiders_17378692957150/Dashboard1)
+🎬 [Netflix Movie Exploration](https://public.tableau.com/app/profile/enyo.alabi/viz/NetflixDashboard_17410372119330/Dashboard2) | Entertainment Insights · Genre Trends | Tableau | Problem: Lack of clarity on Netflix's genre popularity over time.  Action: Analyzed content ratings, genre frequency, and time trends using Tableau filters and charts.  Result: Provided interactive insights on the evolution of viewer preferences.  🔗 [Dashboard](https://public.tableau.com/app/profile/enyo.alabi/viz/NetflixDashboard_17410372119330/Dashboard2)
 
 ***
 
-# Power-BI
+# 📈 Power BI Projects
 
-| Project Link | Project Description | Dashboard Link |
+📌 Project | 🧠 Focus Area | 🛠️ Tools | 🔍 Project Story
 |---|---|---|
-| 🛒🛍️💳 [Marketing Analytics](https://github.com/enyo-ojo/Marketing-Analytics) | Cleansed and performed exploratory data analysis on data for an e-commerce store facing low sales and ROI and was looking to increase ROI and store profit. I explored this data in **SQL** and performed the feature engineering and creation of tables using **sQL**. Then I did a bit of **Python** to get a sentiment analysis on customer reviews to ensure that I provided solid recommendations. Performed the visualization in Power BI leveraging DAX for more feature engineering and marketing calculations(conversion rates, click, ...) | [Dashboard](https://leomailtamuc-my.sharepoint.com/:u:/g/personal/ealabi1_leomail_tamuc_edu/ETKT7n-ibo1MtsY8hTpte7kBcbv8JPQNH52A9nFyI_Z1PA?e=c6aCjV) |
+🛒 [Marketing Analytics for E-Commerce](https://github.com/enyo-ojo/Marketing-Analytics) | Conversion Optimization · Sentiment Analysis | Power BI, SQL, Python, DAX | Problem: An e-commerce store was struggling with low ROI and unclear conversion paths.  Action: Cleaned and modeled data in SQL, ran sentiment analysis in Python, and visualized KPIs using Power BI + DAX.  Result: Built a full marketing funnel dashboard with actionable insights to improve campaign targeting.  🔗 [Dashboard](https://leomailtamuc-my.sharepoint.com/:u:/g/personal/ealabi1_leomail_tamuc_edu/ETKT7n-ibo1MtsY8hTpte7kBcbv8JPQNH52A9nFyI_Z1PA?e=c6aCjV)
+
