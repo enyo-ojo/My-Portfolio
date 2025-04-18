@@ -11,7 +11,9 @@
 
 📌 Project | 🧠 Focus Area | 🛠️ Tools | 🔍 Project Story 
 |---|---|---|---|
-💡 [Housing Data Cleaning & EDA](https://github.com/enyo-ojo/SQL-ETL-) | Data Transformation · SQL Query Optimization | SQL (Joins, CTEs, Subqueries) | Problem: Messy housing data limited pricing insights.  Action: Cleaned and transformed raw housing data using SQL—applied CTEs, CASE statements, and aggregations.  Result: Created a clean dataset ready for analysis and visualization to drive real estate decisions.
+💡 [Housing Data Cleaning & EDA](https://github.com/enyo-ojo/SQL-ETL-) | Data Transformation · SQL Query Optimization | SQL (Joins, CTEs, Subqueries) | Problem: Messy housing data limited pricing insights.  
+Action: Cleaned and transformed raw housing data using SQL—applied CTEs, CASE statements, and aggregations.  
+Result: Created a clean dataset ready for analysis and visualization to drive real estate decisions.
 
 ***
 
