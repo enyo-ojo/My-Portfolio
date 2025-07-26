@@ -1,7 +1,7 @@
 # 🗺 Enyojo's Portfolio
 
 ## 📚 Table of Contents
-- 🗃 [SQL](#sql)
+- 🗃 [SQL](# 🗃 SQL Project)
 - 🐍 [Python](#python)
 - 📊 [Tableau](#tableau)
 - 📈 [Power BI](#power-bi)
